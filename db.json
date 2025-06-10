@@ -1,4 +1,61 @@
 {
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "phone": "+33 6 12 34 56 78",
+      "avatar": "/avatars/1.jpg",
+      "isFavorite": true,
+      "isArchived": false,
+      "lastMessage": "Salut ! Comment ça va ?",
+      "lastMessageTime": "14:30",
+      "unreadCount": 2
+    },
+    {
+      "id": 3,
+      "name": "Claire Martin",
+      "phone": "+33 6 11 22 33 44",
+      "avatar": "/avatars/3.jpg",
+      "isFavorite": true,
+      "isArchived": false,
+      "lastMessage": "Message archivé",
+      "lastMessageTime": "Hier",
+      "unreadCount": 0
+    },
+    {
+      "name": "mohamed",
+      "phone": "780118223",
+      "avatar": "/avatars/4.jpg",
+      "isFavorite": false,
+      "isArchived": true,
+      "lastMessage": "Nouveau contact",
+      "lastMessageTime": "Maintenant",
+      "unreadCount": 0,
+      "id": 4
+    },
+    {
+      "name": "bilal drame",
+      "phone": "765438974",
+      "avatar": "/avatars/5.jpg",
+      "isFavorite": false,
+      "isArchived": false,
+      "lastMessage": "Nouveau contact",
+      "lastMessageTime": "Maintenant",
+      "unreadCount": 0,
+      "id": 5
+    },
+    {
+      "name": "libasse",
+      "phone": "765433456",
+      "avatar": "/avatars/6.jpg",
+      "isFavorite": false,
+      "isArchived": false,
+      "lastMessage": "Nouveau contact",
+      "lastMessageTime": "Maintenant",
+      "unreadCount": 0,
+      "id": 6
+    }
+  ],
   "users": [
     {
       "id": 1,
