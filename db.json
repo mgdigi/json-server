@@ -2,7 +2,7 @@
   "contacts": [
     {
       "id": 1,
-      "name": "Alice Johnson",
+      "name": "El Hadji",
       "phone": "+221 78 011 82 23",
       "avatar": "/avatars/1.jpg",
       "isFavorite": true,
@@ -13,7 +13,7 @@
     },
     {
       "id": 3,
-      "name": "Claire Martin",
+      "name": "Aminata ",
       "phone": "+221 753452314",
       "avatar": "/avatars/3.jpg",
       "isFavorite": true,
