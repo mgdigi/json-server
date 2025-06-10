@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Alice Johnson",
-      "phone": "+33 6 12 34 56 78",
+      "phone": "+221 78 011 82 23",
       "avatar": "/avatars/1.jpg",
       "isFavorite": true,
       "isArchived": false,
@@ -14,7 +14,7 @@
     {
       "id": 3,
       "name": "Claire Martin",
-      "phone": "+33 6 11 22 33 44",
+      "phone": "+221 753452314",
       "avatar": "/avatars/3.jpg",
       "isFavorite": true,
       "isArchived": false,
