@@ -86,27 +86,7 @@
       "avatar": "/avatars/3.jpg",
       "isOnline": false,
       "lastSeen": "2024-01-14T18:20:00Z"
-    },
-    {
-      "id" : 4,
-      "username": "libass",
-      "email": "libass@gmail.com",
-      "password": "password123",
-      "name": "libass gueye",
-      "avatar": "/avatars/3.jpg",
-      "isOnline": false,
-      "lastSeen": "2024-01-14T18:20:00Z"
-    },
-     {
-      "id": 5,
-      "username": "idrissa",
-      "email": "idrissa@gmail.com",
-      "password": "password123",
-      "name": "idrissa ndiaye",
-      "avatar": "/avatars/3.jpg",
-      "isOnline": false,
-      "lastSeen": "2024-01-14T18:20:00Z"
-    },
+    }
   ],
   "conversations": [
     {
