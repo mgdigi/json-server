@@ -2,8 +2,8 @@
   "contacts": [
     {
       "id": 1,
-      "name": "Alice Johnson",
-      "phone": "+33 6 12 34 56 78",
+      "name": "Mohamed Gueye",
+      "phone": "+221 78 014 82 23",
       "avatar": "/avatars/1.jpg",
       "isFavorite": true,
       "isArchived": false,
@@ -13,7 +13,7 @@
     },
     {
       "id": 3,
-      "name": "Claire Martin",
+      "name": "Idrissa Ndiaye",
       "phone": "+33 6 11 22 33 44",
       "avatar": "/avatars/3.jpg",
       "isFavorite": true,
@@ -23,7 +23,7 @@
       "unreadCount": 0
     },
     {
-      "name": "mohamed",
+      "name": "mbaye ndiaye",
       "phone": "780118223",
       "avatar": "/avatars/4.jpg",
       "isFavorite": false,
@@ -59,30 +59,30 @@
   "users": [
     {
       "id": 1,
-      "username": "alice",
-      "email": "alice@example.com",
+      "username": "mohamed",
+      "email": "mohamed@gmail.com",
       "password": "password123",
-      "name": "Alice Johnson",
+      "name": "Mohamed Gueye",
       "avatar": "/avatars/1.jpg",
       "isOnline": true,
       "lastSeen": "2024-01-15T14:30:00Z"
     },
     {
       "id": 2,
-      "username": "bob",
-      "email": "bob@example.com",
+      "username": "bilal",
+      "email": "bilal@gmail.com",
       "password": "password123",
-      "name": "Bob Smith",
+      "name": "Bilal Drame",
       "avatar": "/avatars/2.jpg",
       "isOnline": false,
       "lastSeen": "2024-01-15T12:15:00Z"
     },
     {
       "id": 3,
-      "username": "claire",
-      "email": "claire@example.com",
+      "username": "mbaye",
+      "email": "mbaye@gmail.com",
       "password": "password123",
-      "name": "Claire Martin",
+      "name": "Mbaye ndiaye",
       "avatar": "/avatars/3.jpg",
       "isOnline": false,
       "lastSeen": "2024-01-14T18:20:00Z"
