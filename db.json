@@ -125,7 +125,7 @@
     {
       "id": 2,
       "type": "direct",
-      "participants": [1, 3],
+      "participants": [1, 3, 4, 5],
       "name": null,
       "avatar": null,
       "isPinned": true,
