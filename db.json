@@ -112,7 +112,7 @@
     {
       "id": 1,
       "type": "direct",
-      "participants": [1, 2],
+      "participants": [1, 2, 3, 4, 5],
       "name": null,
       "avatar": null,
       "isPinned": false,
